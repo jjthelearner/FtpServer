@@ -1,0 +1,267 @@
+Sun Nov 15 17:54:04 EST 2015: Load authentication successfully.
+Sun Nov 15 17:54:04 EST 2015: Servser is initalized.
+Sun Nov 15 17:54:11 EST 2015: Client: cs472(/127.0.0.1:55084) is logged in.
+Sun Nov 15 17:54:12 EST 2015: Client: cs472(/127.0.0.1:55084) 214 Send help list.
+Sun Nov 15 17:54:23 EST 2015: Client: cs472-1(/127.0.0.1:55086) is logged in.
+Sun Nov 15 17:54:23 EST 2015: Client: cs472-1(/127.0.0.1:55086) 214 Send help list.
+Sun Nov 15 17:54:53 EST 2015: Load authentication successfully.
+Sun Nov 15 17:54:53 EST 2015: Servser is initalized.
+Sun Nov 15 17:54:59 EST 2015: Client: cs472(/127.0.0.1:55087) is logged in.
+Sun Nov 15 17:55:01 EST 2015: Client: cs472(/127.0.0.1:55087) 214 Send help list.
+Sun Nov 15 17:55:15 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 17:55:31 EST 2015: Client: cs472(/127.0.0.1:55090) is logged in.
+Sun Nov 15 17:55:40 EST 2015: Client: cs472-1(/127.0.0.1:55092) is logged in.
+Sun Nov 15 17:55:40 EST 2015: Client: cs472-1(/127.0.0.1:55092) 214 Send help list.
+Sun Nov 15 17:55:46 EST 2015: Client: cs472(/127.0.0.1:55090) 214 Send help list.
+Sun Nov 15 18:00:40 EST 2015: Failed to receive client cs472-1 message
+Sun Nov 15 18:00:46 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 18:07:26 EST 2015: Client: cs472-1(/127.0.0.1:55961) is logged in.
+Sun Nov 15 18:07:26 EST 2015: Client: cs472-1(/127.0.0.1:55961) 214 Send help list.
+Sun Nov 15 18:07:26 EST 2015: Client: cs472-1(/127.0.0.1:55961) 425 Use PORT or PASV first.
+Sun Nov 15 18:09:53 EST 2015: Client: cs472(/127.0.0.1:56003) is logged in.
+Sun Nov 15 18:09:53 EST 2015: Client: cs472(/127.0.0.1:56003) 214 Send help list.
+Sun Nov 15 18:09:53 EST 2015: Client: cs472(/127.0.0.1:56003) 425 Use PORT or PASV first.
+Sun Nov 15 18:10:40 EST 2015: Load authentication successfully.
+Sun Nov 15 18:10:40 EST 2015: Servser is initalized.
+Sun Nov 15 18:10:45 EST 2015: Client: cs472(/127.0.0.1:56005) is logged in.
+Sun Nov 15 18:10:45 EST 2015: Client: cs472(/127.0.0.1:56005) 214 Send help list.
+Sun Nov 15 18:10:45 EST 2015: Client: cs472(/127.0.0.1:56005) 425 Use PORT or PASV first.
+Sun Nov 15 18:10:54 EST 2015: Client: cs472(/127.0.0.1:56006) is logged in.
+Sun Nov 15 18:10:54 EST 2015: Client: cs472(/127.0.0.1:56006) 214 Send help list.
+Sun Nov 15 18:10:54 EST 2015: Client: cs472(/127.0.0.1:56006) 425 Use PORT or PASV first.
+Sun Nov 15 18:11:12 EST 2015: Load authentication successfully.
+Sun Nov 15 18:11:12 EST 2015: Servser is initalized.
+Sun Nov 15 18:11:33 EST 2015: Client: cs472(/127.0.0.1:56009) is logged in.
+Sun Nov 15 18:11:38 EST 2015: Client: cs472(/127.0.0.1:56009) 214 Send help list.
+Sun Nov 15 18:11:44 EST 2015: Client: cs472(/127.0.0.1:56009) 425 Use PORT or PASV first.
+Sun Nov 15 18:13:45 EST 2015: Load authentication successfully.
+Sun Nov 15 18:13:45 EST 2015: Servser is initalized.
+Sun Nov 15 18:13:48 EST 2015: Client: cs472(/127.0.0.1:56017) is logged in.
+Sun Nov 15 18:13:48 EST 2015: Client: cs472(/127.0.0.1:56017) 214 Send help list.
+Sun Nov 15 18:13:48 EST 2015: Client: cs472(/127.0.0.1:56017) 425 Use PORT or PASV first.
+Sun Nov 15 18:13:48 EST 2015: Client: cs472(/127.0.0.1:56017) 425 Use PORT or PASV first.
+Sun Nov 15 18:13:48 EST 2015: Client: cs472(/127.0.0.1:56017) 425 Use PORT or PASV first.
+Sun Nov 15 18:13:48 EST 2015: Client: cs472(/127.0.0.1:56017) 425 Use PORT or PASV first.
+Sun Nov 15 18:13:48 EST 2015: Client: cs472(/127.0.0.1:56017) 425 Use PORT or PASV first.
+Sun Nov 15 18:13:48 EST 2015: Client: cs472(/127.0.0.1:56017) 425 Use PORT or PASV first.
+Sun Nov 15 18:13:48 EST 2015: Client: cs472(/127.0.0.1:56017) 425 Use PORT or PASV first.
+Sun Nov 15 20:18:20 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 20:57:20 EST 2015: Client: cs472(/127.0.0.1:56800) is logged in.
+Sun Nov 15 20:57:25 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 20:57:39 EST 2015: Client: cs472(/127.0.0.1:56802) is logged in.
+Sun Nov 15 20:58:27 EST 2015: Load authentication successfully.
+Sun Nov 15 20:58:27 EST 2015: Servser is initalized.
+Sun Nov 15 20:58:39 EST 2015: Client: cs472(/127.0.0.1:56808) is logged in.
+Sun Nov 15 21:01:36 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 21:01:57 EST 2015: Load authentication successfully.
+Sun Nov 15 21:01:57 EST 2015: Servser is initalized.
+Sun Nov 15 21:02:01 EST 2015: Client: cs472(/127.0.0.1:56823) is logged in.
+Sun Nov 15 21:02:01 EST 2015: Client: cs472(/127.0.0.1:56823) 214 Send help list.
+Sun Nov 15 21:02:01 EST 2015: Client: cs472(/127.0.0.1:56823) using PASV mode(127,0,0,1,143,179).
+Sun Nov 15 21:02:27 EST 2015: Client: cs472(/127.0.0.1:56826) is logged in.
+Sun Nov 15 21:02:27 EST 2015: Client: cs472(/127.0.0.1:56826) 214 Send help list.
+Sun Nov 15 21:02:27 EST 2015: Client: cs472(/127.0.0.1:56826) using PASV mode(127,0,0,1,159,191).
+Sun Nov 15 21:08:45 EST 2015: Load authentication successfully.
+Sun Nov 15 21:08:45 EST 2015: Servser is initalized.
+Sun Nov 15 21:08:54 EST 2015: Client: cs472(/127.0.0.1:56834) is logged in.
+Sun Nov 15 21:08:54 EST 2015: Client: cs472(/127.0.0.1:56834) 214 Send help list.
+Sun Nov 15 21:08:54 EST 2015: Client: cs472(/127.0.0.1:56834) using PASV mode(127,0,0,1,123,138).
+Sun Nov 15 21:09:47 EST 2015: Load authentication successfully.
+Sun Nov 15 21:09:47 EST 2015: Servser is initalized.
+Sun Nov 15 21:10:11 EST 2015: Client: cs472(/127.0.0.1:56839) is logged in.
+Sun Nov 15 21:10:35 EST 2015: Client: cs472(/127.0.0.1:56842) is logged in.
+Sun Nov 15 21:11:13 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 21:11:15 EST 2015: Client: cs472(/127.0.0.1:56847) is logged in.
+Sun Nov 15 21:11:31 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 21:11:36 EST 2015: Client: cs472(/127.0.0.1:56848) is logged in.
+Sun Nov 15 21:11:37 EST 2015: Client: cs472(/127.0.0.1:56849) is logged in.
+Sun Nov 15 21:11:57 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 21:11:59 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 21:12:00 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 21:12:02 EST 2015: Client: cs472(/127.0.0.1:56852) is logged in.
+Sun Nov 15 21:13:53 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 21:14:01 EST 2015: Client: cs472(/127.0.0.1:56858) is logged in.
+Sun Nov 15 21:14:06 EST 2015: Client: cs472(/127.0.0.1:56858) using PASV mode(127,0,0,1,181,230).
+Sun Nov 15 21:14:07 EST 2015: Client: cs472(/127.0.0.1:56858) 226 Directory send OK.
+Sun Nov 15 21:14:40 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 21:26:22 EST 2015: Load authentication successfully.
+Sun Nov 15 21:26:22 EST 2015: Servser is initalized.
+Sun Nov 15 21:26:25 EST 2015: Client: cs472(/127.0.0.1:57104) is logged in.
+Sun Nov 15 21:26:29 EST 2015: Client: cs472(/127.0.0.1:57104) using PASV mode(127,0,0,1,151,234).
+Sun Nov 15 21:26:30 EST 2015: Client: cs472(/127.0.0.1:57104) 226 Directory send OK.
+Sun Nov 15 21:27:16 EST 2015: Load authentication successfully.
+Sun Nov 15 21:27:16 EST 2015: Servser is initalized.
+Sun Nov 15 21:27:18 EST 2015: Client: cs472(/127.0.0.1:57106) is logged in.
+Sun Nov 15 21:27:22 EST 2015: Client: cs472(/127.0.0.1:57106) 220 port command successful. In EPRT mode.
+Sun Nov 15 21:27:22 EST 2015: Client: cs472(/127.0.0.1:57106) 226 Directory send OK.
+Sun Nov 15 21:27:41 EST 2015: Client: cs472(/127.0.0.1:57106) 220 port command successful. In EPRT mode.
+Sun Nov 15 21:27:41 EST 2015: Client: cs472(/127.0.0.1:57106) 226 Directory send OK.
+Sun Nov 15 21:28:44 EST 2015: Load authentication successfully.
+Sun Nov 15 21:28:44 EST 2015: Servser is initalized.
+Sun Nov 15 21:29:04 EST 2015: Client: cs472(/127.0.0.1:57117) is logged in.
+Sun Nov 15 21:29:09 EST 2015: Client: cs472(/127.0.0.1:57117) using PASV mode(127,0,0,1,135,167).
+Sun Nov 15 21:29:09 EST 2015: Client: cs472(/127.0.0.1:57117) 226 Directory send OK.
+Sun Nov 15 21:29:24 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 21:29:41 EST 2015: Client: cs472(/127.0.0.1:57124) is logged in.
+Sun Nov 15 21:29:46 EST 2015: Client: cs472(/127.0.0.1:57124) 220 port command successful.
+Sun Nov 15 21:29:46 EST 2015: Client: cs472(/127.0.0.1:57124) 226 Directory send OK.
+Sun Nov 15 21:29:55 EST 2015: Client: cs472(/127.0.0.1:57124) using PASV mode(127,0,0,1,168,192).
+Sun Nov 15 21:29:56 EST 2015: Client: cs472(/127.0.0.1:57124) 226 Directory send OK.
+Sun Nov 15 21:30:05 EST 2015: Client: cs472(/127.0.0.1:57124) using PASV mode(127,0,0,1,144,196).
+Sun Nov 15 21:30:05 EST 2015: Client: cs472(/127.0.0.1:57124) 226 Directory send OK.
+Sun Nov 15 21:30:13 EST 2015: Client: cs472(/127.0.0.1:57124) using EPSV mode : 229 Entering Extended Passive Mode (|||42981|).
+Sun Nov 15 21:30:14 EST 2015: Client: cs472(/127.0.0.1:57124) 226 Directory send OK.
+Sun Nov 15 21:30:38 EST 2015: Client: cs472(/127.0.0.1:57124) 220 port command successful. In EPRT mode.
+Sun Nov 15 21:30:38 EST 2015: Client: cs472(/127.0.0.1:57124) 226 Directory send OK.
+Sun Nov 15 21:30:41 EST 2015: Client: cs472(/127.0.0.1:57124) 220 port command successful. In EPRT mode.
+Sun Nov 15 21:30:41 EST 2015: Client: cs472(/127.0.0.1:57124) 226 Directory send OK.
+Sun Nov 15 21:31:33 EST 2015: Client: cs472(/127.0.0.1:57124) 220 port command successful. In EPRT mode.
+Sun Nov 15 21:31:33 EST 2015: Client: cs472(/127.0.0.1:57124) 226 Directory send OK.
+Sun Nov 15 21:31:48 EST 2015: Client: cs472(/127.0.0.1:57124) 220 port command successful. In EPRT mode.
+Sun Nov 15 21:31:48 EST 2015: Client: cs472(/127.0.0.1:57124) 150 File status okay; about to open data connection.
+Sun Nov 15 21:31:48 EST 2015: Client: cs472(/127.0.0.1:57124) 226 Transfer OK
+
+Sun Nov 15 21:32:57 EST 2015: Client: cs472(/127.0.0.1:57124) 220 port command successful.
+Sun Nov 15 21:32:57 EST 2015: Client: cs472(/127.0.0.1:57124) 150 File status okay; about to open data connection.
+Sun Nov 15 21:32:57 EST 2015: Client: cs472(/127.0.0.1:57124) 226 Transfer OK
+
+Sun Nov 15 21:33:05 EST 2015: Client: cs472(/127.0.0.1:57124) 220 port command successful.
+Sun Nov 15 21:33:05 EST 2015: Client: cs472(/127.0.0.1:57124) 150 File status okay; about to open data connection.
+Sun Nov 15 21:33:05 EST 2015: Client: cs472(/127.0.0.1:57124) 226 Transfer OK
+
+Sun Nov 15 21:33:21 EST 2015: Client: cs472(/127.0.0.1:57124) using PASV mode(127,0,0,1,139,101).
+Sun Nov 15 21:33:21 EST 2015: Client: cs472(/127.0.0.1:57124) 150 File status okay; about to open data connection.
+Sun Nov 15 21:33:21 EST 2015: Client: cs472(/127.0.0.1:57124) 226 Transfer OK
+
+Sun Nov 15 21:33:26 EST 2015: Client: cs472(/127.0.0.1:57124) using PASV mode(127,0,0,1,170,153).
+Sun Nov 15 21:33:26 EST 2015: Client: cs472(/127.0.0.1:57124) 150 File status okay; about to open data connection.
+Sun Nov 15 21:33:26 EST 2015: Client: cs472(/127.0.0.1:57124) 226 Transfer OK
+
+Sun Nov 15 21:33:40 EST 2015: Client: cs472(/127.0.0.1:57124) using EPSV mode : 229 Entering Extended Passive Mode (|||35931|).
+Sun Nov 15 21:33:40 EST 2015: Client: cs472(/127.0.0.1:57124) 150 File status okay; about to open data connection.
+Sun Nov 15 21:33:40 EST 2015: Client: cs472(/127.0.0.1:57124) 226 Transfer OK
+
+Sun Nov 15 21:33:44 EST 2015: Client: cs472(/127.0.0.1:57124) using EPSV mode : 229 Entering Extended Passive Mode (|||43410|).
+Sun Nov 15 21:33:45 EST 2015: Client: cs472(/127.0.0.1:57124) 150 File status okay; about to open data connection.
+Sun Nov 15 21:33:45 EST 2015: Client: cs472(/127.0.0.1:57124) 226 Transfer OK
+
+Sun Nov 15 21:34:25 EST 2015: Client: cs472(/127.0.0.1:57124) using EPSV mode : 229 Entering Extended Passive Mode (|||35684|).
+Sun Nov 15 21:34:25 EST 2015: Client: cs472(/127.0.0.1:57124) 226 Directory send OK.
+Sun Nov 15 21:38:27 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 21:38:44 EST 2015: Client: cs472(/127.0.0.1:57171) is logged in.
+Sun Nov 15 21:38:46 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 22:26:25 EST 2015: Load authentication successfully.
+Sun Nov 15 22:26:25 EST 2015: Servser is initalized.
+Sun Nov 15 22:27:15 EST 2015: Failed to receive client null message
+Sun Nov 15 22:27:31 EST 2015: Client: cs472(/127.0.0.1:58470) is logged in.
+Sun Nov 15 22:27:37 EST 2015: Client: cs472(/127.0.0.1:58470) 214 Send help list.
+Sun Nov 15 22:27:52 EST 2015: Client: cs472(/127.0.0.1:58470£© 257 "//dir"
+Sun Nov 15 22:29:21 EST 2015: Client: cs472(/127.0.0.1:58488) is logged in.
+Sun Nov 15 22:29:27 EST 2015: Client: cs472(/127.0.0.1:58488) 214 Send help list.
+Sun Nov 15 22:30:04 EST 2015: Load authentication successfully.
+Sun Nov 15 22:30:04 EST 2015: Servser is initalized.
+Sun Nov 15 22:30:11 EST 2015: Client: cs472(/127.0.0.1:58513) is logged in.
+Sun Nov 15 22:30:11 EST 2015: Client: cs472(/127.0.0.1:58513) 214 Send help list.
+Sun Nov 15 22:31:17 EST 2015: Load authentication successfully.
+Sun Nov 15 22:31:17 EST 2015: Servser is initalized.
+Sun Nov 15 22:31:23 EST 2015: Load authentication successfully.
+Sun Nov 15 22:31:23 EST 2015: Servser is initalized.
+Sun Nov 15 22:31:38 EST 2015: Client: cs472(/127.0.0.1:58519) is logged in.
+Sun Nov 15 22:31:39 EST 2015: Client: cs472(/127.0.0.1:58519) 214 Send help list.
+Sun Nov 15 22:33:23 EST 2015: Load authentication successfully.
+Sun Nov 15 22:33:24 EST 2015: Servser is initalized.
+Sun Nov 15 22:33:26 EST 2015: Client: cs472(/127.0.0.1:58590) is logged in.
+Sun Nov 15 22:33:26 EST 2015: Client: cs472(/127.0.0.1:58590) 550 CWD failed. File unavailable.
+Sun Nov 15 22:33:26 EST 2015: Client: cs472(/127.0.0.1:58590£© 257 "/dir/333"
+Sun Nov 15 22:33:26 EST 2015: Client: cs472(/127.0.0.1:58590£© 257 "/dir"
+Sun Nov 15 22:34:05 EST 2015: Load authentication successfully.
+Sun Nov 15 22:34:05 EST 2015: Servser is initalized.
+Sun Nov 15 22:34:17 EST 2015: Client: cs472(/127.0.0.1:58598) is logged in.
+Sun Nov 15 22:34:20 EST 2015: Client: cs472(/127.0.0.1:58598) 550 CWD failed. File unavailable.
+Sun Nov 15 22:34:27 EST 2015: Load authentication successfully.
+Sun Nov 15 22:34:27 EST 2015: Servser is initalized.
+Sun Nov 15 22:34:39 EST 2015: Client: cs472(/127.0.0.1:58602) is logged in.
+Sun Nov 15 22:36:15 EST 2015: Load authentication successfully.
+Sun Nov 15 22:36:15 EST 2015: Servser is initalized.
+Sun Nov 15 22:36:26 EST 2015: Client: cs472(/127.0.0.1:58607) is logged in.
+Sun Nov 15 22:37:05 EST 2015: Client: cs472(/127.0.0.1:58607) 250 CWD successful.
+Sun Nov 15 22:37:11 EST 2015: Client: cs472(/127.0.0.1:58607£© 257 "dir/333/2222"
+Sun Nov 15 22:37:13 EST 2015: Client: cs472(/127.0.0.1:58607£© 257 "dir/333"
+Sun Nov 15 22:38:10 EST 2015: Client: cs472(/127.0.0.1:58627) is logged in.
+Sun Nov 15 22:38:11 EST 2015: Client: cs472(/127.0.0.1:58627) 250 CWD successful.
+Sun Nov 15 22:38:11 EST 2015: Client: cs472(/127.0.0.1:58627£© 257 "dir/333/2222"
+Sun Nov 15 22:38:11 EST 2015: Client: cs472(/127.0.0.1:58627£© 257 "dir/333"
+Sun Nov 15 22:38:50 EST 2015: Client: cs472(/127.0.0.1:58628) is logged in.
+Sun Nov 15 22:38:50 EST 2015: Client: cs472(/127.0.0.1:58628) 550 CWD failed. File unavailable.
+Sun Nov 15 22:38:50 EST 2015: Client: cs472(/127.0.0.1:58628£© 257 "dir/333"
+Sun Nov 15 22:38:51 EST 2015: Client: cs472(/127.0.0.1:58628£© 257 "dir"
+Sun Nov 15 22:39:07 EST 2015: Load authentication successfully.
+Sun Nov 15 22:39:08 EST 2015: Servser is initalized.
+Sun Nov 15 22:39:16 EST 2015: Client: cs472(/127.0.0.1:58633) is logged in.
+Sun Nov 15 22:39:18 EST 2015: Client: cs472(/127.0.0.1:58633) 550 CWD failed. File unavailable.
+Sun Nov 15 22:39:49 EST 2015: Client: cs472(/127.0.0.1:58633£© 257 "/dir/333"
+Sun Nov 15 22:39:50 EST 2015: Client: cs472(/127.0.0.1:58636) is logged in.
+Sun Nov 15 22:40:18 EST 2015: Client: cs472(/127.0.0.1:58633£© 257 "/dir"
+Sun Nov 15 22:40:51 EST 2015: Client: cs472(/127.0.0.1:58636) 550 CWD failed. File unavailable.
+Sun Nov 15 22:45:01 EST 2015: Load authentication successfully.
+Sun Nov 15 22:45:01 EST 2015: Servser is initalized.
+Sun Nov 15 22:45:03 EST 2015: Client: cs472(/127.0.0.1:59117) is logged in.
+Sun Nov 15 22:45:03 EST 2015: Client: cs472(/127.0.0.1:59117) 250 CWD successful.
+Sun Nov 15 22:45:12 EST 2015: Client: cs472(/127.0.0.1:59118) is logged in.
+Sun Nov 15 22:45:12 EST 2015: Client: cs472(/127.0.0.1:59118) 250 CWD successful.
+Sun Nov 15 22:45:12 EST 2015: Client: cs472(/127.0.0.1:59118£© 257 "/dir/333/2222"
+Sun Nov 15 22:45:12 EST 2015: Client: cs472(/127.0.0.1:59118£© 257 "/dir/333"
+Sun Nov 15 22:48:15 EST 2015: Load authentication successfully.
+Sun Nov 15 22:48:15 EST 2015: Servser is initalized.
+Sun Nov 15 22:48:19 EST 2015: Client: cs472(/127.0.0.1:59155) is logged in.
+Sun Nov 15 22:48:19 EST 2015: Client: cs472(/127.0.0.1:59155) 250 Directory successfully changed.
+Sun Nov 15 22:48:19 EST 2015: Client: cs472(/127.0.0.1:59155£© 257 "/dir/333/2222"
+Sun Nov 15 22:48:19 EST 2015: Client: cs472(/127.0.0.1:59155£© 250 Directory successfully changed.
+Sun Nov 15 22:48:19 EST 2015: Client: cs472(/127.0.0.1:59155£© 257 "/dir/333"
+Sun Nov 15 22:48:19 EST 2015: Client: cs472(/127.0.0.1:59155£© 250 Directory successfully changed.
+Sun Nov 15 22:48:19 EST 2015: Client: cs472(/127.0.0.1:59155£© 257 "/dir"
+Sun Nov 15 22:50:23 EST 2015: Load authentication successfully.
+Sun Nov 15 22:50:23 EST 2015: Servser is initalized.
+Sun Nov 15 22:50:27 EST 2015: Client: cs472(/127.0.0.1:59160) is logged in.
+Sun Nov 15 22:50:27 EST 2015: Client: cs472(/127.0.0.1:59160) 250 Directory successfully changed.
+Sun Nov 15 22:50:27 EST 2015: Client: cs472(/127.0.0.1:59160£© 257 "/dir/333/2222"
+Sun Nov 15 22:50:27 EST 2015: Client: cs472(/127.0.0.1:59160£© 250 Directory successfully changed.
+Sun Nov 15 22:50:27 EST 2015: Client: cs472(/127.0.0.1:59160£© 257 "/dir/333"
+Sun Nov 15 22:50:27 EST 2015: Client: cs472(/127.0.0.1:59160£© 250 Directory successfully changed.
+Sun Nov 15 22:50:27 EST 2015: Client: cs472(/127.0.0.1:59160£© 257 "/dir"
+Sun Nov 15 22:50:27 EST 2015: Client: cs472(/127.0.0.1:59160£© 257 "/"
+Sun Nov 15 22:50:27 EST 2015: Client: cs472(/127.0.0.1:59160£© 257 "/"
+Sun Nov 15 22:50:27 EST 2015: Client: cs472(/127.0.0.1:59160£© 257 "/"
+Sun Nov 15 22:50:27 EST 2015: Client: cs472(/127.0.0.1:59160£© 257 "/"
+Sun Nov 15 22:50:27 EST 2015: Client: cs472(/127.0.0.1:59160£© 257 "/"
+Sun Nov 15 22:50:27 EST 2015: Client: cs472(/127.0.0.1:59160£© 257 "/"
+Sun Nov 15 22:51:28 EST 2015: Load authentication successfully.
+Sun Nov 15 22:51:29 EST 2015: Servser is initalized.
+Sun Nov 15 22:51:31 EST 2015: Client: cs472(/127.0.0.1:59177) is logged in.
+Sun Nov 15 22:51:31 EST 2015: Client: cs472(/127.0.0.1:59177) 250 Directory successfully changed.
+Sun Nov 15 22:51:31 EST 2015: Client: cs472(/127.0.0.1:59177£© 257 "/dir/333/2222"
+Sun Nov 15 22:51:31 EST 2015: Client: cs472(/127.0.0.1:59177£© 250 Directory successfully changed.
+Sun Nov 15 22:51:31 EST 2015: Client: cs472(/127.0.0.1:59177£© 257 "/dir/333"
+Sun Nov 15 22:51:31 EST 2015: Client: cs472(/127.0.0.1:59177£© 250 Directory successfully changed.
+Sun Nov 15 22:51:31 EST 2015: Client: cs472(/127.0.0.1:59177£© 257 "/dir"
+Sun Nov 15 22:51:31 EST 2015: Client: cs472(/127.0.0.1:59177£© 250 Directory successfully changed.
+Sun Nov 15 22:51:31 EST 2015: Client: cs472(/127.0.0.1:59177£© 257 "/"
+Sun Nov 15 22:51:31 EST 2015: Client: cs472(/127.0.0.1:59177£© 250 Directory successfully changed.
+Sun Nov 15 22:51:31 EST 2015: Client: cs472(/127.0.0.1:59177£© 257 "/"
+Sun Nov 15 22:51:31 EST 2015: Client: cs472(/127.0.0.1:59177£© 250 Directory successfully changed.
+Sun Nov 15 22:51:31 EST 2015: Client: cs472(/127.0.0.1:59177£© 257 "/"
+Sun Nov 15 22:56:31 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 23:06:50 EST 2015: Load authentication successfully.
+Sun Nov 15 23:06:50 EST 2015: Servser is initalized.
+Sun Nov 15 23:08:20 EST 2015: Load authentication successfully.
+Sun Nov 15 23:08:20 EST 2015: Servser is initalized.
+Sun Nov 15 23:08:53 EST 2015: Load authentication successfully.
+Sun Nov 15 23:08:53 EST 2015: Servser is initalized.
+Sun Nov 15 23:09:37 EST 2015: Client: cs472(/0:0:0:0:0:0:0:1:59323) is logged in.
+Sun Nov 15 23:09:37 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 23:09:42 EST 2015: Client: cs472(/0:0:0:0:0:0:0:1:59324) is logged in.
+Sun Nov 15 23:09:42 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 23:10:28 EST 2015: Client: cs472(/0:0:0:0:0:0:0:1:59325) is logged in.
+Sun Nov 15 23:10:28 EST 2015: Failed to receive client cs472 message
+Sun Nov 15 23:10:33 EST 2015: Client: cs472(/0:0:0:0:0:0:0:1:59326) is logged in.
+Sun Nov 15 23:10:33 EST 2015: Failed to receive client cs472 message

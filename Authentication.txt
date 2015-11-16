@@ -1,0 +1,6 @@
+cs472 password
+cs472-1 password1
+cs472-2 password2
+cs472-3 password3
+cs472-4 password4
+anonymous password
